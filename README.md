@@ -133,6 +133,8 @@ Crie exercícios para praticar comandos Linux.
 
 Explique a diferença entre os comandos Linux **[comando]** e **[comando]**.
 
+Crie um guia como um tutorial de boas vindas a um iniciante, dando exemplos de comandos básicos do Linux e como eles podem ser utilizados no dia a dia
+
 ---
 
 ## 🚀 Conclusão
